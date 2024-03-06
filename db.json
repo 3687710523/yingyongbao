@@ -5,6 +5,10 @@
     "lingData": {
       "page": "",
       "isIntent": false
+    },
+    "tiantianData": {
+      "page": "",
+      "isIntent": false
     }
   }
 }
